@@ -1,0 +1,54 @@
+src/event1Dict.d src/event1Dict.o: src/event1Dict.cc \
+  /Users/hprasad/root/root_install/include/ROOT/RConfig.hxx \
+  /Users/hprasad/root/root_install/include/ROOT/../RVersion.h \
+  /Users/hprasad/root/root_install/include/RConfigure.h \
+  /Users/hprasad/root/root_install/include/TClass.h \
+  /Users/hprasad/root/root_install/include/TDictionary.h \
+  /Users/hprasad/root/root_install/include/TNamed.h \
+  /Users/hprasad/root/root_install/include/TObject.h \
+  /Users/hprasad/root/root_install/include/Rtypes.h \
+  /Users/hprasad/root/root_install/include/RtypesCore.h \
+  /Users/hprasad/root/root_install/include/DllImport.h \
+  /Users/hprasad/root/root_install/include/strtok.h \
+  /Users/hprasad/root/root_install/include/strlcpy.h \
+  /Users/hprasad/root/root_install/include/snprintf.h \
+  /Users/hprasad/root/root_install/include/TGenericClassInfo.h \
+  /Users/hprasad/root/root_install/include/TSchemaHelper.h \
+  /Users/hprasad/root/root_install/include/TIsAProxy.h \
+  /Users/hprasad/root/root_install/include/TVirtualIsAProxy.h \
+  /Users/hprasad/root/root_install/include/TStorage.h \
+  /Users/hprasad/root/root_install/include/TVersionCheck.h \
+  /Users/hprasad/root/root_install/include/RVersion.h \
+  /Users/hprasad/root/root_install/include/TString.h \
+  /Users/hprasad/root/root_install/include/TMathBase.h \
+  /Users/hprasad/root/root_install/include/ROOT/RStringView.hxx \
+  /Users/hprasad/root/root_install/include/ROOT/TypeTraits.hxx \
+  /Users/hprasad/root/root_install/include/ESTLType.h \
+  /Users/hprasad/root/root_install/include/TObjArray.h \
+  /Users/hprasad/root/root_install/include/TSeqCollection.h \
+  /Users/hprasad/root/root_install/include/TCollection.h \
+  /Users/hprasad/root/root_install/include/TIterator.h \
+  /Users/hprasad/root/root_install/include/TVirtualRWMutex.h \
+  /Users/hprasad/root/root_install/include/TVirtualMutex.h \
+  /Users/hprasad/root/root_install/include/ROOT/RRangeCast.hxx \
+  /Users/hprasad/root/root_install/include/ROOT/RSpan.hxx \
+  /Users/hprasad/root/root_install/include/ROOT/span.hxx \
+  /Users/hprasad/root/root_install/include/TDictAttributeMap.h \
+  /Users/hprasad/root/root_install/include/THashTable.h \
+  /Users/hprasad/root/root_install/include/TInterpreter.h \
+  /Users/hprasad/root/root_install/include/TDataType.h \
+  /Users/hprasad/root/root_install/include/TInterpreterValue.h \
+  /Users/hprasad/root/root_install/include/TROOT.h \
+  /Users/hprasad/root/root_install/include/TDirectory.h \
+  /Users/hprasad/root/root_install/include/TUUID.h \
+  /Users/hprasad/root/root_install/include/TList.h \
+  /Users/hprasad/root/root_install/include/TBuffer.h \
+  /Users/hprasad/root/root_install/include/Bytes.h \
+  /Users/hprasad/root/root_install/include/TMemberInspector.h \
+  /Users/hprasad/root/root_install/include/TError.h \
+  /Users/hprasad/root/root_install/include/RtypesImp.h \
+  /Users/hprasad/root/root_install/include/TFileMergeInfo.h \
+  /Users/hprasad/root/root_install/include/TCollectionProxyInfo.h \
+  /Users/hprasad/root/root_install/include/TDataMember.h src/event1.h \
+  src/particle.h src/generatormt.h src/vect.h src/vec.h src/vecrand.h \
+  src/jednostki.h src/pdg.h src/params.h src/dirs.h src/params_all.h
